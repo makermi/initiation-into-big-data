@@ -1,4 +1,4 @@
-# Initiation into Big Data: Course Portal
+# Initiation into Big Data: Practical Course Portal
 
 This repository is the portal for the practical course "Initiation into Big Data" taught by [Montasser AKERMI](https://akermi.org/) at the [Faculty of Sciences of Sfax](https://fss.rnu.tn/).
 
